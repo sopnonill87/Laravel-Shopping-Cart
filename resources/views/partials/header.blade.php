@@ -7,7 +7,11 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         </button>
+<<<<<<< HEAD
         <a class="navbar-brand" href="{{ route('product.index') }}">Laravel Shopping Cart(Mridul)(hehe)</a>
+=======
+        <a class="navbar-brand" href="{{ route('product.index') }}">Laravel Shopping Cart(Rinku)</a>
+>>>>>>> a02b8ac978eff4f5b83c0a1add2dd1691ac3c351
     </div>
     <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-right">
